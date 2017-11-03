@@ -20,6 +20,9 @@
     "backend",
     "responsive"
   ],
+  "scripts": {
+  "start": "node server"
+  },
   "author": "Aigars Silkalns",
   "contributors": [
     "Christian Esperar"
